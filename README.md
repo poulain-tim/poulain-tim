@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I am currently a PhD student and I'm working on generation of absent keyphrases for the indexing of scientific documents at the LS2N laboratory at Nantes University.
-- 💬 Ask me about: deep learning, keyphrase generation, information retrieval, graph embedding, gougère (amazing cabbage topped with cheese)
+- 💬 Ask me about: deep learning, keyphrase generation, information retrieval, graph embedding, gougère (amazing cheese puff)
 - 😄 Pronouns: He/Him/His
 - 📫 How to reach me: [Email](mailto:timothee.poulain@gmail.com), [LinkedIn](https://www.linkedin.com/in/timoth%C3%A9e-poulain-abb9b484/)
 <!--
